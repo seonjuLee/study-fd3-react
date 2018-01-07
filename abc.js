@@ -1,5 +1,9 @@
 
 // abc를 출력한다.
-function abc() {
+function abc(){
   alert('abc');
+}
+
+function output(){
+  console.log('abccc')
 }
